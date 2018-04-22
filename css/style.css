@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*header start*/
+
+header {
+
+    min-height: 80px;
+    overflow: hidden;
+    background-color: #BDD9FF;
+}
+
+.wrapper1 {
+    width: 98%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-color: #FFFFFF;
+}
+
+.logo {
+    min-height: 65px;
+    width: 20%;
+    float: left;
+    background-color: #FFFFFF;
+}
+
+.logo img {
+    width: 20%;
+    padding: 35px 0px;
+}
+
+.text {
+    float: right;
+     font-size: 29px;
+    margin-top: 50px;
+}
+
+.nav {
+    min-height: 80px;
+    width: 60%;
+    float: right;
+    background-color: #FFFFFF;
+}
+
+.nav ul {}
+
+.nav ul li {
+    float: left;
+    list-style: none;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    display: block;
+    padding: 65px 30px;
+    font-size: 18px;
+    color: black;
+}
+.nav ul li a:hover { 
+    color: blue;
+}
+
+/*header end*/
+/*banner start*/
+.banners {
+    background-color: #C0DBFC;
+    min-height: 500px;
+    overflow: hidden;
+}
+
+.wrapper2 {
+    width: 98%;
+    overflow: hidden;
+    margin: 0 auto;
+    min-height: 500px;
+      background-image: url(../images/field_grass_dawn_sky_clouds_86840_1280x960.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.part{
+    width: 32%;
+    min-height: 300px;
+    background-color: #453534;
+    opacity: .8;
+    border: none;
+    border-radius: 5px;
+    margin-top: 90px;
+}
+.part h4{
+        color: white;
+    font-size: 47px;
+}
+.part p{
+        color: white;
+    padding: 10px 2px;
+    font-size: 30px;
+}
+.view{}
+.view button{   
+    padding: 20px 75px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #453502;    
+}
+.view button p{
+    font-size: 20px; 
+    color: white;
+    
+}
+/*banner finished*/
+/*section start*/
+.section {
+     min-height: 350px;
+    overflow: hidden;
+    background-color:#C0DBFC;
+}
+.wrapper3{
+    min-height: 350px;
+     width: 98%;
+    overflow: hidden;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+
+.single_sections{
+    width: 30%;
+    float: left;
+    padding: 18px 30px;
+}
+.single_sections h6{
+    text-align: center;
+    font-size: 20px;
+    
+}
+.single{
+    height: 200px;
+    width: 100%;
+}
+.single_sections p{
+    padding: 2px 55px;
+}
+.click{
+        padding: 11px 158px;
+}
+.click button{
+      padding: 6px 16px;
+    background-color: #40597D;
+    border: none;
+    border-radius: 5px;  
+}
+/*section end*/
+.footer{
+    background-color: #C0DBFC;
+    overflow: hidden;
+}
+
+.wrapper4{
+    height: 60px;
+     width: 98%;
+    overflow: hidden;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+
+.wrapper4 p{
+    text-align: center;
+    font-size: 18px;
+    padding: 2px 10px;
+}
+.wrapper6{
+    width: 98%;
+    min-height: 50px;
+    background-color: #fff;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.wrapper5{
+    height: 50px;
+    width: 20%;    
+    margin: 0 auto;
+   
+}
+
+
+.pic{
+    height:50px;
+    width: 20%;
+    
+}
